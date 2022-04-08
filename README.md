@@ -41,7 +41,7 @@ Check daily, weekly and monthly stock market by company symbol and pin any data 
 <!-- ABOUT THE Oracle -->
 ## About The Oracle
 
-This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://www.alphavantage.co/">Alpha Vantage</a>. All the documentation provided is by Alpha Vantage is function with our oracle.
+This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://www.alphavantage.co/">Alpha Vantage</a>. All the documentation provided is by Alpha Vantage is functional with our oracle.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
